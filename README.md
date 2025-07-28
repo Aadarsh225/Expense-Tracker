@@ -13,9 +13,6 @@ A modern web-based Expense Tracker built with **HTML**, **CSS**, and **JavaScrip
 - ✅ Data is saved using `localStorage` (persists after reload)  
 - ✅ Responsive design for desktop and mobile  
 
-## 🚀 Live Demo
-
-🔗 [Live Demo on GitHub Pages](https://aadarsh225.github.io/Expense-Tracker)
 
 
 
